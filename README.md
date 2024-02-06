@@ -1,4 +1,4 @@
-E-commerce Project
+SHOP TOP is an E-commerce Project,
 This is a web application developed using Django, HTML, CSS, JavaScript, and Jinja for creating an E-commerce platform.
 
 Features
